@@ -1,0 +1,11 @@
+{
+    "port": 6969,
+    "checkboxes": 10000,
+    "saveInterval": 60000,
+    "heartbeatInterval": 15000,
+    "heartbeatIntervalDiff": 5000,
+    "rateLimit": {
+        "maxRequests": 100,
+        "decrementInterval": 1000
+    }
+}
